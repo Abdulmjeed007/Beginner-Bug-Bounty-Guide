@@ -1,1 +1,379 @@
-<mxfile host="Electron" modified="2022-03-26T15:51:58.017Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/17.2.1 Chrome/96.0.4664.174 Electron/16.1.0 Safari/537.36" etag="jZYnx8da3j-HcPHQBiqV" version="17.2.1" type="device" pages="2"><diagram id="ZikHR3m95qK9YOb5Ooth" name="Beginner Bug Bounty Guide">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</diagram><diagram id="fr__hVA0zZx0z3aRJqKh" name="Approach to Secure Web Application">3VptU6s4FP41nd39oAOlVP1Y2+p1Rq1j67p3v6WQQtaUcENoy/31e/IGBVytri/1OiOSw+EkOW/PE8aON1xuzjlK4ysWYtrpOuGm4406Xfg5OYY/UlJoidv1jCTiJNQypxJMyU9sFK00JyHOjEyLBGNUkLQuDFiS4EDUZIhztq6rLRgNa4IURbglmAaItqX3JBSxlh77TiX/hkkU25ldxzxZIqtsBFmMQrbeEnnjjjfkjAl9t9wMMZXes365951udO11D3pitV5c+D/+ngQH2tjZS14pt8BxIt7WdE+bXiGaG3+ZvYrCOhCH4E8zZFzELGIJouNKespZnoRYTuPAqNK5ZCwFoQvCf7AQhUkOlAsGolgsqXm64/6MHzKW8wA/oWf2IBCP8FP2PK0nN7iVK8Z755gtseAFKHBMkSCrekIhk5dRqVf5Hm6M+18Qim4rFIM05QwFsSoZuExxkHMMN/d4Dld4TEkAK2MJjH6frDBfEbz+oxXBenzWMRF4miLlwjVU/f+JBcwp8OZJ75mnx6aKTB/xema8rorStZUWbxVk33knf7u/ZO57O+a+u1/J77ViMRr/Ob6c3FyNr2cdbwDPTnMCrR8SBs8zyGCVOiK2ZUGEXCyRlXBFkrAVyWeyvh7G96qB/SuCox1qIAkHEodhlLAEP+U3cBcv/pKDQ98OvxtNNRhttjVHxav8/WZ9fcvr/iNOt7KdK8DMcMMIbKMMehnkwjbCRjB1TZu3tgG8YajXrRvqNw1px7QMqcQot/36XDlu5UoJSEMWkiSCmxuOAkGgyPYSg7oND/b8z66/k5ZPwZW43tQGeUggoGe3WMK77XLT0eXwa3jZ/3Qvu21u1en2qZD+gL30I3k3w5kstrEED8231K1Wg2krTSvMUpTU/N//kcvDwCk4ShwgSqJEQ1cAHsa8em4NnXH8I8eqxpEOMhwyWK5grryZy3QIZeftOgmTOiyhhV2jiKUc1ahgoFJoKN/NlW2aSVW77LmdnpI5R5zA6UzaQVI1z6S5+krM62odCKhN8RNL8YJxNUOUHW55aV45yRmvcKJMszySQF1AoyuX5xA5bWY7iF6p3o1eV2F18CaljAg0p3pX5Vza//WYpI8HScsOn3kZxFvvN2pLBrVeQJng7AEPGQVPlOC4IJQ2RDBVINujN/Kr0Uzxw4PufxUqg4JbUAW7MQlD8ORHsRTXb+CMf9Su35NH6tf1Tt6rgNt9ss1TvhxXd3cm68c7MpqPIetum60PJ9ezi+vx5G4K8tl4CoNz3fu+EVXfCH4jxmTjKE+v0peyM2aqOe4jYe/tHWF3/R0q4csx9p1Pox9D2f23ouy+d3Lo1yln92NJu9tv5ctMgWzEEFXe4yUYa0KhaZBGd4k/oIOSSNP7Bc+JyPTqDU2IUfnqNlNZMmV3YRgOLfaTqzbPVJ9/InDbR/IRUzkFPEh+IJckrN45tfcX6rMHsDU5RcqyjCjC5KxymmCO5oQSobjeUJmodJEQKHhQbgsE41ajjLAMITTxzHRxqjnoQs5LlthOHzIFeUCxnAthM0rzVflWyhksZ2nfDNgypXijDjhytohorrgFE+UGD79G6ux8zHHfL3ceOaLPBrczCbfwe3p3Lq+Tu+vZd7i5uZ2c3w6u9hN5+3uHvHayXwx5d6WWH4O8R03kdV+JvEeNQ0yvaeidcddufStbJgoYy2O17o0ZrMP2SDhLyyukifruAy0z4ki2zBDab6AwVPZKOEZv2zFfA6whohqzgnitKGKSPJSjGK0adDyrvjQBagg4ju9pw+2/FqvdZuzfrie0PyxdJIBZKLRAFxOuqZMhRBLEOcFJoL6hrNVRCDWPQkMLvQpEEV2jQt7M4XBa4b2EzDLUFbyqZzK8ruP8lpVIHeOlhOZZrEyqy1p/8tHUT1nhGGVMkwuW0lq2Ropi2E8+j6Rp9kWypvxq/mzW+C/PGhhW/w+gW0n1bxXe+F8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-05T19:49:43.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pKWb3aGfFLBgN7l00q7j" version="20.4.0" type="github" pages="2">
+  <diagram id="ZikHR3m95qK9YOb5Ooth" name="Beginner Bug Bounty Guide">
+    <mxGraphModel dx="1822" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xof230OjBOCpJgYOQFSc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-1" target="Xof230OjBOCpJgYOQFSc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-1" value="Beginner Bug Bounty Guide" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-263" y="474" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="47" y="504" />
+              <mxPoint x="47" y="444" />
+            </Array>
+            <mxPoint x="94.5" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-4" target="Xof230OjBOCpJgYOQFSc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="47" y="504" />
+              <mxPoint x="47" y="604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-4" value="Have programming background" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-93" y="454" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Xof230OjBOCpJgYOQFSc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-12" value="&lt;span&gt;For beginners,&lt;/span&gt;&lt;br&gt;&lt;span&gt;1) Javascript (Required)&lt;/span&gt;&lt;br&gt;&lt;span&gt;2) Python (preferred, but any other language can also do) (Required)&lt;/span&gt;&lt;br&gt;&lt;span&gt;3) Bash (optional)&lt;/span&gt;&lt;br&gt;&lt;span&gt;4) Windows Powershell (optional)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="77" y="554" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-14" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="17" y="414" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-15" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="7" y="604" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-20" target="Xof230OjBOCpJgYOQFSc-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xof230OjBOCpJgYOQFSc-20" target="Xof230OjBOCpJgYOQFSc-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-20" value="6) Read Bug Bounty Submissions and Writeups" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1121" y="416" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-23" value="(Click to see links.)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1118" y="39" width="286" height="210" as="geometry" />
+        </mxCell>
+        <UserObject label="1) Nahamsec Begineer Bug Bounty Hunters  " link="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/tree/master/assets" linkTarget="_blank" id="Xof230OjBOCpJgYOQFSc-24">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="30" width="286" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2) Beginner Essential Bug Bounty Submissions" link="https://github.com/twseptian/Bug-Bounty-Testing-Essential-Guideline-Startup-Bug-Hunters" linkTarget="_blank" id="7APMinoS_-_rVs3ugznU-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="60" width="286" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="3) Topicwise Bug Bounty Writeups 1" link="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups" linkTarget="_blank" id="Xof230OjBOCpJgYOQFSc-25">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="90" width="286" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="4) Topicwise Bug Bounty Writeups 2" link="https://www.bugbountyhunting.com/" id="Xof230OjBOCpJgYOQFSc-26">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="120" width="286" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="5) (hover) Rest of the resources" one="https://infosecwriteups.com/" tow="https://www.youtube.com/c/BugBountyReportsExplained/videos" three="https://pequalsnp-team.github.io/" id="Xof230OjBOCpJgYOQFSc-39">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="150" width="286" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="6) HackerOne Hactivity" link="https://hackerone.com/hacktivity?querystring=&amp;filter=type:public&amp;order_direction=DESC&amp;order_field=popular&amp;followed_only=false&amp;collaboration_only=false" linkTarget="_blank" id="U4LFZSz3BH9hp5_ZrS64-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-23" vertex="1">
+            <mxGeometry y="180" width="286" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-30" target="Xof230OjBOCpJgYOQFSc-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Xof230OjBOCpJgYOQFSc-30" target="Xof230OjBOCpJgYOQFSc-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-30" value="&lt;b&gt;Be up to date&lt;/b&gt; with latest vulnerabilities, latest attacks and get bug bounty tips" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1418" y="591" width="133" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-34" value="Links (Click to see links)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1675" y="593" width="235" height="240" as="geometry" />
+        </mxCell>
+        <UserObject label="List of People to follow (hover)" Twitter1="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/TWITTER.md" Twitter2="https://github.com/securibee/Twitter-Seclists" id="Xof230OjBOCpJgYOQFSc-35">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="30" width="235" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="List of Youtube Channels to follow (hover)" Youtube1="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/YOUTUBE.md" id="hJ6SZaEzVKJAQh04Z_N3-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="60" width="235" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="List of Books to read (hover)" Books1="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/BOOKS.md" id="fcB19h9n-RpTiUDAHUsm-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="90" width="235" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Security Conferences - Youtube (hover)" One="https://www.youtube.com/user/hitbsecconf/videos" two="https://www.youtube.com/c/BlackHatOfficialYT/videos" id="Xof230OjBOCpJgYOQFSc-36">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="120" width="235" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="PTES (optional)" link="http://www.pentest-standard.org/index.php/Main_Page" linkTarget="_blank" id="Xof230OjBOCpJgYOQFSc-49">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="150" width="235" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NIST Guide (optional)" link="https://csrc.nist.gov/publications/detail/sp/800-115/final" linkTarget="_blank" id="Xof230OjBOCpJgYOQFSc-50">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="180" width="235" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MITRE ATT&amp;CK" link="https://attack.mitre.org/" linkTarget="_blank" id="_02s8tGerYHSH4SqCufu-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Xof230OjBOCpJgYOQFSc-34" vertex="1">
+            <mxGeometry y="210" width="235" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xof230OjBOCpJgYOQFSc-40" target="Xof230OjBOCpJgYOQFSc-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="7) Choose a Bug Bounty Program in one of the Bug Bounty Platform" id="Xof230OjBOCpJgYOQFSc-40">
+          <mxCell style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+            <mxGeometry x="1416" y="416" width="137" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-42" value="8) Give atleast 15 days to one program before you decide to move to other program as you were not able to find bug." style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1687" y="404" width="223" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Xof230OjBOCpJgYOQFSc-44" value="&lt;h1&gt;Note&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Create notes using obsidian tool (or any other similar too, as the notes will get bigger and bigger). My &lt;a href=&quot;https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-3-8b979d0f6511#9e9b&quot;&gt;Note taking approach&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Create mindmaps, based on how you understand things, you can create as many mind maps as possible (preferred, edrawmind tool)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;In actual bug bounty will be extensively using mindmaps&lt;/li&gt;&lt;li&gt;Create mind map for attack vectors and attack surfaces.&lt;/li&gt;&lt;li&gt;Create mindmap of your methodology - Link your obsidian notes &quot;titles&quot; to make the mindmap easy to read.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Majority of your time (3-4 hours daily) you will be doing 2) and 3) and 4), the remaining time (1-2 hours) you will be doing actual bug bounty.&lt;/li&gt;&lt;li&gt;Repeat 2) and 4)&lt;/li&gt;&lt;li&gt;In 5) try to check all information that you have read until now, and check all.&lt;/li&gt;&lt;li&gt;Decide bug bounty program carefully and once decided, keep on working no matter what and how much you have to read documentation and technologies.&lt;/li&gt;&lt;li&gt;Make sure to be up to date with latest security vulnerabilities in the wild. Always watch all security conference videos related to your technology of interest. Update your mindmaps accordingly to incorporate the new knowledge.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1418" y="41" width="520" height="320" as="geometry" />
+        </mxCell>
+        <object label="(hover) Complete the remaining attacks and vulnerabilities&lt;br&gt;&amp;nbsp;" list-of-attacks="https://owasp.org/www-community/attacks/" list-of-vulns="https://owasp.org/www-community/vulnerabilities/" id="Xof230OjBOCpJgYOQFSc-45">
+          <mxCell style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+            <mxGeometry x="1203" y="591" width="130" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="hJ6SZaEzVKJAQh04Z_N3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MmSVQE4gHTnKzWuyLMOz-1" target="hJ6SZaEzVKJAQh04Z_N3-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-1" value="3) Udemy Bug Bounty Courses" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="451" y="414" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MmSVQE4gHTnKzWuyLMOz-4" target="MmSVQE4gHTnKzWuyLMOz-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-4" value="1) Portswigger Academy&lt;br&gt;(https://portswigger.net/web-security/dashboard)&lt;br&gt;2) Hacksplained - Youtube (https://www.youtube.com/c/Hacksplained/videos)" style="html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="94.5" y="414" width="284.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-7" value="&lt;h1&gt;How Soon can you start?&lt;/h1&gt;&lt;p&gt;The best position to start a bug bounty program program is &lt;b&gt;&quot;anytime&quot;&lt;/b&gt;. If you are in high school or you are in college or you are working professional or a very experienced person, or a non-programming domain. The only requirement is you should give proper time and efforts. A web developer may require a less time to start, as compared to a person who do not have programming background, but this hurdle is just in the beginning. If you are in high school or dont know about programming, it is not a huge problem you could easily learn any 1 language (python preferred in a week) to get going. Also I would recommend to learn data structures and Object Oriented Programming, these will be used when you read source code.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-271" y="591" width="278" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-8" value="Online Courses (Click to see links)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="51" width="328" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-9" value="Note: This list is not up to date, always search and &#xa;research what is the latest course, ask security community.&#xa;How may to buy depends on you. Buy when in offer, &#xa;these are very little investment, given the amount of real l&#xa;ife knowledge your learn. (last checked on Jan 2022). Also&#xa;the udemy courses sometimes are very old like 2014, so &#xa;do the research, choose a course which is most recent." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=0" parent="MmSVQE4gHTnKzWuyLMOz-8" vertex="1">
+          <mxGeometry y="30" width="328" height="108" as="geometry" />
+        </mxCell>
+        <UserObject label="1. Nahamsec Bug Bounty Course - Udemy" link="https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/" linkTarget="_blank" id="MmSVQE4gHTnKzWuyLMOz-10">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="MmSVQE4gHTnKzWuyLMOz-8" vertex="1">
+            <mxGeometry y="138" width="328" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2. Uncle Rat&#39;s Bug Bounty Course - Udemy" link="https://www.udemy.com/course/uncle-rats-bug-bounty-guide/learn/lecture/25572642?start=0#overview" linkTarget="_blank" id="MmSVQE4gHTnKzWuyLMOz-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="MmSVQE4gHTnKzWuyLMOz-8" vertex="1">
+            <mxGeometry y="168" width="328" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="3. Bug Bounty Hunting (Rohit Gautam) part 1 - Udemy" link="https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/" linkTarget="_blank" id="MmSVQE4gHTnKzWuyLMOz-12">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="MmSVQE4gHTnKzWuyLMOz-8" vertex="1">
+            <mxGeometry y="198" width="328" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="4. Bug Bounty Hunting (Rohit Gautam) part 2 - Udemy" link="https://www.udemy.com/course/penetration-testing-bug-bounty-hunting-level-2-hacktify/" id="MmSVQE4gHTnKzWuyLMOz-13">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="MmSVQE4gHTnKzWuyLMOz-8" vertex="1">
+            <mxGeometry y="228" width="328" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MmSVQE4gHTnKzWuyLMOz-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.47;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="MmSVQE4gHTnKzWuyLMOz-1" target="MmSVQE4gHTnKzWuyLMOz-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="369" as="sourcePoint" />
+            <mxPoint x="541" y="319" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="344" />
+              <mxPoint x="394" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJ6SZaEzVKJAQh04Z_N3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hJ6SZaEzVKJAQh04Z_N3-1" target="hJ6SZaEzVKJAQh04Z_N3-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="246" />
+              <mxPoint x="755" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hJ6SZaEzVKJAQh04Z_N3-1" target="7APMinoS_-_rVs3ugznU-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="4) Payload Resources in Github" id="hJ6SZaEzVKJAQh04Z_N3-1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" parent="1" vertex="1">
+            <mxGeometry x="680" y="414" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hJ6SZaEzVKJAQh04Z_N3-3" value="Some Example (Click to see links)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="657" y="51" width="191" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="SSRF" link="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md" linkTarget="_blank" id="hJ6SZaEzVKJAQh04Z_N3-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="hJ6SZaEzVKJAQh04Z_N3-3" vertex="1">
+            <mxGeometry y="30" width="191" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SSTI" link="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md" linkTarget="_blank" id="hJ6SZaEzVKJAQh04Z_N3-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="hJ6SZaEzVKJAQh04Z_N3-3" vertex="1">
+            <mxGeometry y="60" width="191" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IDOR/BOLA" link="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Insecure%20Direct%20Object%20References/README.md" linkTarget="_blank" id="hJ6SZaEzVKJAQh04Z_N3-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="hJ6SZaEzVKJAQh04Z_N3-3" vertex="1">
+            <mxGeometry y="90" width="191" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7APMinoS_-_rVs3ugznU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Xof230OjBOCpJgYOQFSc-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039" y="446" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="5) OWASP WSTG (Reference)&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22680%22%20y%3D%22444%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20x%3D%22626%22%20y%3D%22444%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" link="https://owasp.org/www-project-web-security-testing-guide/latest/" linkTarget="_blank" id="HWlIVI21igIHyX8Ofn8_-1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" parent="1" vertex="1">
+            <mxGeometry x="909" y="416" width="130" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HWlIVI21igIHyX8Ofn8_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HWlIVI21igIHyX8Ofn8_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="897" y="445" as="targetPoint" />
+            <mxPoint x="831" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ym2PpujTpkCFjnNbPMn-2" value="Additional Payload List Resources (Click to see links)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="357" y="556" width="312" height="150" as="geometry" />
+        </mxCell>
+        <UserObject label="Payload of All Things" link="https://github.com/swisskyrepo/PayloadsAllTheThings" linkTarget="_blank" id="7APMinoS_-_rVs3ugznU-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="2ym2PpujTpkCFjnNbPMn-2" vertex="1">
+            <mxGeometry y="30" width="312" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SecLists" link="https://github.com/danielmiessler/SecLists" linkTarget="_blank" id="7APMinoS_-_rVs3ugznU-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="2ym2PpujTpkCFjnNbPMn-2" vertex="1">
+            <mxGeometry y="60" width="312" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Payload of All Things" link="https://github.com/swisskyrepo/PayloadsAllTheThings" linkTarget="_blank" id="2ym2PpujTpkCFjnNbPMn-3">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="2ym2PpujTpkCFjnNbPMn-2" vertex="1">
+            <mxGeometry y="90" width="312" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PayloadBox" link="https://github.com/orgs/payloadbox/repositories" linkTarget="_blank" id="2ym2PpujTpkCFjnNbPMn-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="2ym2PpujTpkCFjnNbPMn-2" vertex="1">
+            <mxGeometry y="120" width="312" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7APMinoS_-_rVs3ugznU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7APMinoS_-_rVs3ugznU-3" target="HWlIVI21igIHyX8Ofn8_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-3" value="Goal here is not to first complete OWASP WSTG and then only move forward, the minimum thing is that you should read the complete document once, even if you dont understand all information. Then use this as a guide to ensure that all test cases are covered." style="whiteSpace=wrap;html=1;rounded=0;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="869" y="519" width="210" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-11" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Now you are ready for real life practical bug hunting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="409" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Goal is to find first or one bug.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1269" y="452" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-13" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;About Submssions and Writeups&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;The more bug submissions and writeups you read-understand-use in your testing, the better your testing and detction skill will be. This will help you understand how manual bug bounty is done. &lt;b&gt;This is very important if you want to find bugs quickly.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="943" y="39" width="173" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Xof230OjBOCpJgYOQFSc-30" target="Xof230OjBOCpJgYOQFSc-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1436" y="569" as="sourcePoint" />
+            <mxPoint x="1486" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="7APMinoS_-_rVs3ugznU-16" target="Xof230OjBOCpJgYOQFSc-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7APMinoS_-_rVs3ugznU-16" value="Portswigger Academy does not cover all types of attack, but covers most of them. To read about remaining attacks hover to the above box and visit the OWASP website links to get an exhaustive list of attacks and vulnerabilities." style="whiteSpace=wrap;html=1;rounded=0;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1163" y="766" width="210" height="138" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fr__hVA0zZx0z3aRJqKh" name="Approach to Secure Web Application">
+    <mxGraphModel dx="2298" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="W502gN32-4tvwfI5qZOc-0" />
+        <mxCell id="W502gN32-4tvwfI5qZOc-1" parent="W502gN32-4tvwfI5qZOc-0" />
+        <mxCell id="W502gN32-4tvwfI5qZOc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="W502gN32-4tvwfI5qZOc-1" source="W502gN32-4tvwfI5qZOc-2" target="W502gN32-4tvwfI5qZOc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-2" value="Approach to Secure Web Application (Overview)" style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="W502gN32-4tvwfI5qZOc-1" source="W502gN32-4tvwfI5qZOc-3" target="W502gN32-4tvwfI5qZOc-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-3" value="DEVELOPMENT: Build website with Security in Mind" style="whiteSpace=wrap;html=1;rounded=0;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="W502gN32-4tvwfI5qZOc-1" target="W502gN32-4tvwfI5qZOc-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="800" as="sourcePoint" />
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-8" value="Secure Coding Practice" style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-9" value="Code Security Audit/Review in SDLC" style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="220" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-12" value="&lt;h1&gt;Test End to End&lt;/h1&gt;&lt;span style=&quot;text-align: center&quot;&gt;Frequent audit should should be done not only to the application code, but also &lt;b&gt;libraries that use it should also be analyzed for bugs.&lt;/b&gt; Even though your code is secure but the library is exploitable,&lt;/span&gt;&lt;p&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="150" y="657" width="190" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="W502gN32-4tvwfI5qZOc-1" source="W502gN32-4tvwfI5qZOc-13" target="W502gN32-4tvwfI5qZOc-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-13" value="CONTINEOUS TESTING: Hire a good Web App pentester" style="whiteSpace=wrap;html=1;rounded=0;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="W502gN32-4tvwfI5qZOc-1" target="W502gN32-4tvwfI5qZOc-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="800" as="sourcePoint" />
+            <mxPoint x="539.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-16" value="The goal here is to test for low hanging fruits as it has to be done more frequently" style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-17" value="Dont expect an pentester to find all possible vulnerabilities, and all attack vectors, as it requires a lot of time to do so. It is not a problem of complexity, given a good pentester." style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="420" y="550" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-18" value="START A BUG BOUNTY PROGRAM" style="whiteSpace=wrap;html=1;rounded=0;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="680" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="W502gN32-4tvwfI5qZOc-1" target="W502gN32-4tvwfI5qZOc-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="810" as="sourcePoint" />
+            <mxPoint x="750" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-21" value="One should not start a bug bounty program directly, you should only start if the you think you have a good security posture." style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="620" y="450" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W502gN32-4tvwfI5qZOc-22" value="Instead of hiring more experienced web app pentester, it is always better to give the problem to a 100&#39;s of them. This is what is the reason people should go for bug bounty programs." style="rounded=0;whiteSpace=wrap;html=1;" parent="W502gN32-4tvwfI5qZOc-1" vertex="1">
+          <mxGeometry x="620" y="600" width="120" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
